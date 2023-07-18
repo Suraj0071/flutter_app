@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="34" viewBox="0 0 38 34">
+  <g id="Group_32728" data-name="Group 32728" transform="translate(10417 -18278)">
+    <rect id="Rectangle_21332" data-name="Rectangle 21332" width="38" height="34" rx="4" transform="translate(-10417 18278)" fill="none"/>
+    <g id="Group_32676" data-name="Group 32676" transform="translate(-10409 18284)">
+      <path id="Vector_-_Outline" data-name="Vector - Outline" d="M1.519,0H8.1A1.519,1.519,0,0,1,9.621,1.519V8.1A1.519,1.519,0,0,1,8.1,9.621H1.519A1.519,1.519,0,0,1,0,8.1V1.519A1.519,1.519,0,0,1,1.519,0ZM8.1,8.608A.506.506,0,0,0,8.608,8.1V1.519A.506.506,0,0,0,8.1,1.013H1.519a.506.506,0,0,0-.506.506V8.1a.506.506,0,0,0,.506.506Z" transform="translate(11.589 11.59)" fill="#989ba5" stroke="#989ba5" stroke-width="0.2"/>
+      <path id="Vector_-_Outline-2" data-name="Vector - Outline" d="M8.1,9.621H1.519A1.519,1.519,0,0,1,0,8.1V1.519A1.519,1.519,0,0,1,1.519,0H8.1A1.519,1.519,0,0,1,9.621,1.519V8.1A1.519,1.519,0,0,1,8.1,9.621ZM1.519,1.013a.506.506,0,0,0-.506.506V8.1a.506.506,0,0,0,.506.506H8.1A.506.506,0,0,0,8.608,8.1V1.519A.506.506,0,0,0,8.1,1.013Z" transform="translate(0 11.59)" fill="#989ba5" stroke="#989ba5" stroke-width="0.2"/>
+      <path id="Vector_-_Outline-3" data-name="Vector - Outline" d="M4.811,0a.506.506,0,0,1,.506.506V4.3h3.8a.506.506,0,0,1,0,1.013h-3.8v3.8a.506.506,0,0,1-1.013,0v-3.8H.506a.506.506,0,0,1,0-1.013H4.3V.506A.506.506,0,0,1,4.811,0Z" transform="translate(11.589 0)" fill="#989ba5" stroke="#989ba5" stroke-width="0.2"/>
+      <path id="Vector_-_Outline-4" data-name="Vector - Outline" d="M8.1,9.621H1.519A1.519,1.519,0,0,1,0,8.1V1.519A1.519,1.519,0,0,1,1.519,0H8.1A1.519,1.519,0,0,1,9.621,1.519V8.1A1.519,1.519,0,0,1,8.1,9.621ZM1.519,1.013a.506.506,0,0,0-.506.506V8.1a.506.506,0,0,0,.506.506H8.1A.506.506,0,0,0,8.608,8.1V1.519A.506.506,0,0,0,8.1,1.013Z" transform="translate(0 0)" fill="#989ba5" stroke="#989ba5" stroke-width="0.2"/>
+    </g>
+  </g>
+</svg>

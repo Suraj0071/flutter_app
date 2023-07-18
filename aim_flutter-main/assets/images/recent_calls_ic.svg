@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="28" viewBox="0 0 30 28">
+  <g id="Group_32831" data-name="Group 32831" transform="translate(-13.903 -382.5)">
+    <g id="Group_32734" data-name="Group 32734" transform="translate(-260.446 -398.234)">
+      <rect id="Rectangle_21260" data-name="Rectangle 21260" width="30" height="28" rx="4" transform="translate(274.35 780.734)" fill="none"/>
+    </g>
+    <path id="icons8_time_machine" d="M12.922,4A8.912,8.912,0,0,0,5.784,7.574V6.007a.669.669,0,1,0-1.338,0V9.13a.669.669,0,0,0,.669.669H8.238a.669.669,0,1,0,0-1.338H6.788a7.585,7.585,0,1,1-1.45,4.461.669.669,0,1,0-1.338,0A8.922,8.922,0,1,0,12.922,4Zm-.233,4.005a.669.669,0,0,0-.659.679v5.353a.669.669,0,0,0,.669.669h3.569a.669.669,0,1,0,0-1.338h-2.9V8.684a.669.669,0,0,0-.68-.679Z" transform="translate(15.904 383.5)" fill="#111824"/>
+  </g>
+</svg>

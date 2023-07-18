@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="Group_32786" data-name="Group 32786" transform="translate(-128 -285)">
+    <g id="Ellipse_1108" data-name="Ellipse 1108" transform="translate(128 285)" fill="#fff" stroke="#bdb8de" stroke-width="1">
+      <circle cx="27" cy="27" r="27" stroke="none"/>
+      <circle cx="27" cy="27" r="26.5" fill="none"/>
+    </g>
+    <g id="Group_32778" data-name="Group 32778" transform="translate(135.605 294)">
+      <rect id="Rectangle_21258" data-name="Rectangle 21258" width="38" height="34" rx="4" transform="translate(0.395)" fill="none"/>
+      <g id="Group_32635" data-name="Group 32635" transform="translate(8.014 6)">
+        <g id="phone">
+          <path id="Path_13173" data-name="Path 13173" d="M0,0H22.617V21.192H0Z" fill="#5b6ebc" fill-rule="evenodd" opacity="0.01"/>
+          <path id="Path_13174" data-name="Path 13174" d="M19.842,13.458a12.635,12.635,0,0,1-3.764-.563,1.78,1.78,0,0,0-1.641.324L12.051,14.9A12.9,12.9,0,0,1,6.127,9.352l1.754-2.18a1.5,1.5,0,0,0,.41-1.585,10.671,10.671,0,0,1-.606-3.535A1.611,1.611,0,0,0,6.028.5H2.159A1.614,1.614,0,0,0,.5,2.058c0,9.991,8.675,18.121,19.342,18.121A1.612,1.612,0,0,0,21.5,18.626V15.011A1.612,1.612,0,0,0,19.842,13.458Z" transform="translate(0.308 0.257)" fill="none" stroke="#1b1d4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

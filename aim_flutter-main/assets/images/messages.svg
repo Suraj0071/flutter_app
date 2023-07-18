@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="34" viewBox="0 0 38 34">
+  <g id="Group_32637" data-name="Group 32637" transform="translate(-176 -781)">
+    <g id="Group_32367" data-name="Group 32367" transform="translate(184 787)">
+      <g id="Group_19838" data-name="Group 19838" transform="translate(0 0)">
+        <path id="Icon_feather-message-square" data-name="Icon feather-message-square" d="M26.433,18.758A2.407,2.407,0,0,1,24,21.134H9.374L4.5,25.886V6.876A2.407,2.407,0,0,1,6.937,4.5H24a2.407,2.407,0,0,1,2.437,2.376Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#121924" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+        <g id="Group_19837" data-name="Group 19837" transform="translate(3.734 7.219)">
+          <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="1.365" cy="1.4" rx="1.365" ry="1.4" transform="translate(2.8) rotate(90)" fill="#121924"/>
+          <ellipse id="Ellipse_540" data-name="Ellipse 540" cx="1.365" cy="1.4" rx="1.365" ry="1.4" transform="translate(8.401) rotate(90)" fill="#121924"/>
+          <circle id="Ellipse_541" data-name="Ellipse 541" cx="1.365" cy="1.365" r="1.365" transform="translate(14.002) rotate(90)" fill="#121924"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_21259" data-name="Rectangle 21259" width="38" height="34" rx="4" transform="translate(176 781)" fill="none"/>
+  </g>
+</svg>

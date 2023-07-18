@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="344" height="341" viewBox="0 0 344 341">
+  <defs>
+    <filter id="list_item" x="-48" y="-42" width="440" height="437" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feFlood flood-color="#161966" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#list_item)">
+        <rect id="list_item-2" data-name="list item" width="344" height="341" rx="10" fill="#9d9e9f" opacity="0.31"/>
+      </g>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff97b4"/>
+      <stop offset="1" stop-color="#161966"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6b99cb"/>
+      <stop offset="1" stop-color="#161966"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_267" data-name="Mask Group 267" clip-path="url(#clip-path)">
+    <g id="Group_32471" data-name="Group 32471" transform="translate(-37 61)">
+      <circle id="Ellipse_29" data-name="Ellipse 29" cx="92.5" cy="92.5" r="92.5" transform="translate(239 42)" fill="#97daff"/>
+      <circle id="Ellipse_30" data-name="Ellipse 30" cx="67" cy="67" r="67" transform="translate(26 24)" fill="#ff97b4"/>
+      <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="35" cy="34.5" rx="35" ry="34.5" transform="translate(339 185)" fill="url(#linear-gradient)"/>
+      <ellipse id="Ellipse_24" data-name="Ellipse 24" cx="0.5" cy="1.5" rx="0.5" ry="1.5" transform="translate(338 148)" fill="#fff"/>
+      <circle id="Ellipse_21" data-name="Ellipse 21" cx="1" cy="1" r="1" transform="translate(145 98)" fill="#fff"/>
+      <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="1" cy="1.5" rx="1" ry="1.5" transform="translate(321 73)" fill="#fff"/>
+      <circle id="Ellipse_28" data-name="Ellipse 28" cx="50" cy="50" r="50" transform="translate(2 -24)" fill="url(#linear-gradient-2)"/>
+      <ellipse id="Ellipse_22" data-name="Ellipse 22" cx="1" cy="0.5" rx="1" ry="0.5" transform="translate(93 61)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

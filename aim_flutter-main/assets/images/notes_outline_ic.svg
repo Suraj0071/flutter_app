@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="34" viewBox="0 0 38 34">
+  <g id="Group_32641" data-name="Group 32641" transform="translate(4354 -5138)">
+    <g id="Group_17927" data-name="Group 17927" transform="translate(-4343.918 5143.853)">
+      <g id="Group_17773" data-name="Group 17773" transform="translate(0)">
+        <g id="note">
+          <path id="Path_13199" data-name="Path 13199" d="M13.559.52H4.641a2.228,2.228,0,0,0-2.23,2.228V20.584a2.23,2.23,0,0,0,2.23,2.23H18.018a2.23,2.23,0,0,0,2.23-2.23V7.207Z" transform="translate(-2.411 -0.52)" fill="rgba(0,0,0,0)" stroke="#1b1d4d" stroke-width="1.5" fill-rule="evenodd"/>
+          <path id="Path_13200" data-name="Path 13200" d="M10.921.52V5.9a1.31,1.31,0,0,0,1.31,1.31H17.61" transform="translate(0.227 -0.52)" fill="rgba(0,0,0,0)" stroke="#1b1d4d" stroke-width="1.5" fill-rule="evenodd"/>
+          <path id="Path_13201" data-name="Path 13201" d="M14.733,10.935H5.815m8.918,4.459H5.815m2.23-8.918H5.815" transform="translate(-1.356 1.326)" fill="rgba(0,0,0,0)" stroke="#1b1d4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_21260" data-name="Rectangle 21260" width="38" height="34" rx="4" transform="translate(-4354 5138)" fill="none"/>
+  </g>
+</svg>

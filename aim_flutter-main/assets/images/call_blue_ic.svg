@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.106" height="29.106" viewBox="0 0 29.106 29.106">
+  <g id="Group_32558" data-name="Group 32558" transform="translate(0 0.001)">
+    <g id="Group_16857" data-name="Group 16857" transform="translate(0 -0.001)">
+      <circle id="Ellipse_513" data-name="Ellipse 513" cx="14.553" cy="14.553" r="14.553" transform="translate(0)" fill="#5b6ebc"/>
+      <g id="Group_32560" data-name="Group 32560" transform="translate(7 8)">
+        <g id="phone" transform="translate(0 0)">
+          <path id="Path_13173" data-name="Path 13173" d="M0,0H14.439V13.53H0Z" fill="#5b6ebc" fill-rule="evenodd" opacity="0.01"/>
+          <path id="Path_13174" data-name="Path 13174" d="M12.849,8.773a8.067,8.067,0,0,1-2.4-.36A1.137,1.137,0,0,0,9.4,8.62L7.874,9.7A8.239,8.239,0,0,1,4.092,6.152L5.212,4.76a.96.96,0,0,0,.262-1.012,6.813,6.813,0,0,1-.387-2.257A1.029,1.029,0,0,0,4.029.5H1.559A1.03,1.03,0,0,0,.5,1.494c0,6.378,5.538,11.569,12.349,11.569a1.029,1.029,0,0,0,1.059-.992V9.764A1.029,1.029,0,0,0,12.849,8.773Z" transform="translate(0.016 -0.017)" fill="none" stroke="#fdfdfe" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
